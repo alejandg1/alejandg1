@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Gómez</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 🔭 I’m currently working on **Coki**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **C++**
 
