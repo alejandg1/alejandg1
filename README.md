@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Gómez</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-/*- 🔭 I’m currently working on **** */
-
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **agomezp2003@gmail.com**
