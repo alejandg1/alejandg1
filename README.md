@@ -1,16 +1,47 @@
-<h1 align="center">Hi 👋, I'm Alejandro Gómez</h1>
-<h3 align="center"> Software Engineering</h3>
+# Alejandro Gómez
+**Software Engineer | Backend, AI, Linux Infrastructure**
 
-- How to reach me **agomezp2003@gmail.com**
+---
 
-#<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Professional Profile
+Software Engineer focused on the development of high-performance distributed systems and AI infrastructure.
+Specialized in bridging the gap between clean backend architectures and efficient machine learning deployment.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="90" height="60"/>
-</p>
+* **Email:** [agomezp2003@gmail.com](mailto:agomezp2003@gmail.com)
+* **LinkedIn:** [linkedin.com/in/alejandro-gomez-dev](https://linkedin.com/in/j-alejandro-gomez)
+
+---
+
+### Key Projects
+
+#### [GopherWatch](https://github.com/alejandg1/gopherwatch)
+* **Role:** Lead Developer
+* **Technologies:** Golang, Docker API, Linux Internals.
+* **Description:** A real-time monitoring engine designed to track Docker container health and system metrics through low-level API integration.
+
+#### Custom AI Infrastructure (Degree Thesis)
+* **Objective:** Memory footprint optimization for distributed vision systems.
+* **Outcome:** Achieved a **97% reduction** in model resource consumption (from 286MB to 6.6MB) by designing a proprietary lightweight architecture.
+
+#### [NeoSynth](https://github.com/ActioMeta/neosynth)
+* **Role:** Android Developer
+* **Technologies:** Kotlin, MVVM, Reactive Programming.
+* **Description:** A production-ready mobile application focused on modularity and high-performance UI state management.
+
+---
+
+### Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Golang, Python, Kotlin, Node.js, Shell Scripting |
+| **Infrastructure** | Docker, Docker Compose, Kubernetes, Nginx, CI/CD Pipelines |
+| **Databases** | PostgreSQL, MySQL, Redis, MongoDB |
+| **Frameworks** | FastAPI, Gin Gonic, Django, React Native |
+
+---
+
+### Engineering Philosophy
+* **Scalability:** Designing systems that handle growth without compromising latency.
+* **Efficiency:** Optimizing resource consumption through rigorous profiling and research.
+* **Ownership:** Taking full responsibility for the software lifecycle, from design to production.
