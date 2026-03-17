@@ -35,7 +35,7 @@ Specialized in bridging the gap between clean backend architectures and efficien
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Golang, Python, Kotlin, Node.js, Shell Scripting |
-| **Infrastructure** | Docker, Docker Compose, Kubernetes, Nginx, CI/CD Pipelines |
+| **Infrastructure** | Docker, Docker Compose, Nginx, CI/CD Pipelines |
 | **Databases** | PostgreSQL, MySQL, Redis, MongoDB |
 | **Frameworks** | FastAPI, Gin Gonic, Django, React Native |
 
